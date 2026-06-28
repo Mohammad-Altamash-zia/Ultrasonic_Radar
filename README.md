@@ -5,7 +5,8 @@ An autonomous 180-degree radar system that scans its surroundings, measures dist
 This project bridges hardware and software by pairing an Arduino microcontroller with a custom Java-based graphic visualizer built in the Processing IDE. 
 
 ## 🚀 Demo
-*(Include a screenshot or a GIF of your radar screen and hardware working here)*
+<img width="4000" height="3000" alt="IMG_20260620_162904" src="https://github.com/user-attachments/assets/a76bd904-568c-45f2-8be3-b5deb3b793c9" />
+
 
 ## 🛠️ Hardware Stack
 *   **Microcontroller:** Arduino Uno
